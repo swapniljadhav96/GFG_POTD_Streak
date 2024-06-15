@@ -1,8 +1,9 @@
 '''
 Mobile numeric keypad
 
-There is a standard numeric keypad on a mobile phone. You can only press the current button or buttons that are directly up, left, right, or down from it (for ex if you press 5, then pressing 2, 4, 6 & 8 are allowed). Diagonal movements and pressing the bottom row corner buttons (* and #) are prohibited.
-
+There is a standard numeric keypad on a mobile phone. You can only press the current button or buttons that are directly up, left, right, or 
+down from it (for ex if you press 5, then pressing 2, 4, 6 & 8 are allowed). 
+Diagonal movements and pressing the bottom row corner buttons (* and #) are prohibited.
 
 
 Given a number n, find the number of possible unique sequences of length n that you can create by pressing buttons. You can start from any digit.
